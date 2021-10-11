@@ -6,4 +6,4 @@ const onStart = () => Neo.app({
     name    : 'Covid'
 });
 
-export {onStart as onStart};
+export { onStart };
